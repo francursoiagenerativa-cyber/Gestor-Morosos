@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Morosos & Cobranzas",
+  "description": "Sistema profesional para registrar, gestionar y controlar morosos, pagos parciales, vencimientos y estadísticas de deudas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
